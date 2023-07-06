@@ -1,0 +1,8 @@
+C:\Users\jogos\Yury Calculadora\Yury_calculadora\bin\Debug\Yury_calculadora.exe.config
+C:\Users\jogos\Yury Calculadora\Yury_calculadora\bin\Debug\Yury_calculadora.exe
+C:\Users\jogos\Yury Calculadora\Yury_calculadora\bin\Debug\Yury_calculadora.pdb
+C:\Users\jogos\Yury Calculadora\Yury_calculadora\obj\Debug\Yury_calculadora.csproj.AssemblyReference.cache
+C:\Users\jogos\Yury Calculadora\Yury_calculadora\obj\Debug\Yury_calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jogos\Yury Calculadora\Yury_calculadora\obj\Debug\Yury_calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jogos\Yury Calculadora\Yury_calculadora\obj\Debug\Yury_calculadora.exe
+C:\Users\jogos\Yury Calculadora\Yury_calculadora\obj\Debug\Yury_calculadora.pdb
